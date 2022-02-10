@@ -1,6 +1,6 @@
-# Page 2
+# Page Hideez 2
 
-Page 2.
+Page Hideez 2.
 
 Hideez there
 

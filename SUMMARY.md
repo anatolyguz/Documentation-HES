@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Page 2](page-2.md)
+* [Page Hideez 1](README.md)
+* [Page Hideez 2](page-hideez-2.md)
